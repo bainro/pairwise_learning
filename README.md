@@ -26,6 +26,6 @@ Use Python 3 with compatible PyTorch and torchvision versions. The main dependen
 
 ## Research notes
 
-The scripts are research examples with experiment-specific settings, data paths, and checkpoints. Review dataset partitions and reference selection when evaluating on new data. For independent evaluation, keep held-out labels out of the reference pool.
+The scripts are research examples with experiment-specific settings, data paths, and checkpoints. Review dataset partitions and reference selection when evaluating on new data.
 
 **Paper:** [Read the manuscript (PDF)](https://rkbain.com/pairwise.pdf).
